@@ -1,16 +1,14 @@
-## Hi there 👋
+# 老道｜laodao
 
-<!--
-**qinhong919/qinhong919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+传统文化从业者，长期做一件事：把“玄”的东西尽量变成可观察、可训练、可讨论。
 
-Here are some ideas to get you started:
+我的标签：周易 / 道家修炼 / 人体科学 / 潜能开发 / 注意力训练 / UOP、UHP / 水遍术实验
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我更关心结构是否成立，方法是否能重复，而不是包装。
+
+目前在做：
+- 周易 + 决策系统
+- 道家修炼 + 身心状态训练
+- 不明现象调查（UOP/UHP、特殊状态实验）
+
+更新时间：2026-05-07
